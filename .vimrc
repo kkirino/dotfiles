@@ -39,15 +39,9 @@ set path+=$PWD/**
 call plug#begin('~/.vim/plugged')
 Plug 'Raimondi/delimitMate'
 Plug 'itchyny/lightline.vim'
-Plug 'vim-skk/eskk.vim'
 Plug 'Vimjas/vim-python-pep8-indent'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
-
-" eskk.vim
-let g:eskk#directory = "~/.eskk"
-let g:eskk#dictionary = {'path': "~/.eskk/my_jisyo", 'sorted': 1, 'encoding': 'utf-8'}
-let g:eskk#large_dictionary = {'path': "~/.eskk/SKK-JISYO.L", 'sorted': 1, 'encoding': 'euc-jp'}
 
 " coc.nvim
 let g:coc_global_extensions = [
