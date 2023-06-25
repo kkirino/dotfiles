@@ -124,3 +124,6 @@ alias sudo='sudo '
 
 # set default editor as vim
 export EDITOR=vim
+
+# enable screen commnad on WSL2
+export SCREENDIR=$HOME/.screen
