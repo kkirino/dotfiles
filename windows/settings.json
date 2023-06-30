@@ -1,0 +1,34 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 17,
+  "git.openRepositoryInParentFolders": "never",
+  "markdown.marp.exportType": "pdf",
+  "vim.useSystemClipboard": true,
+  "vim.hlsearch": true,
+  "vim.visualstar": true,
+  "vim.enableNeovim": true,
+  "vim.neovimPath": "C:\\Users\\kkirino\\AppData\\Local\\Programs\\Neovim\\bin\\nvim.exe",
+  "[r]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "REditorSupport.r"
+  },
+  "editor.accessibilitySupport": "off",
+  "markdown.marp.enableHtml": true,
+  "[python]": {
+    "editor.defaultFormatter": null
+  },
+  "python.formatting.provider": "black",
+  "workbench.editorAssociations": {
+    "*.pdf": "default"
+  },
+  "workbench.editor.enablePreview": false,
+  "hediet.vscode-drawio.resizeImages": null,
+  "editor.tabSize": 2,
+  "r.lsp.use_stdio": true,
+  "r.plot.useHttpgd": true,
+  "editor.formatOnSave": true
+}
+
