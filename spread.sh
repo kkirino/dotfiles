@@ -24,6 +24,6 @@ WPS_PROFILE_DIR="${WIN_HOME_DIR}"/Documents/WindowsPowerShell/
 [ -d "${PS_PROFILE_DIR}" ] || mkdir -p "${WPS_PROFILE_DIR}"
 cp "${ROOT_DIR}"/windows/Microsoft.PowerShell_profile.ps1 "${WPS_PROFILE_DIR}"
 # PowerShell (不要であれば以下の 3 行をコメントアウト)
-PS_PROFILE_DIR="${WIN_HOME_DIR}"/Documents/powershell/
+PS_PROFILE_DIR="${WIN_HOME_DIR}"/Documents/PowerShell/
 [ -d "${PS_PROFILE_DIR}" ] || mkdir -p "${PS_PROFILE_DIR}"
 cp "${ROOT_DIR}"/windows/Microsoft.PowerShell_profile.ps1 "${PS_PROFILE_DIR}"
