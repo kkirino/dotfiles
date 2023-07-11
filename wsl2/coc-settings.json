@@ -5,6 +5,8 @@
     "python",
     "html",
     "json",
-    "javascript"
-  ]
+    "javascript",
+    "r"
+  ],
+  "explorer.file.showHiddenFiles": true
 }

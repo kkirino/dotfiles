@@ -41,6 +41,7 @@ Plug 'Raimondi/delimitMate'
 Plug 'itchyny/lightline.vim'
 Plug 'Vimjas/vim-python-pep8-indent'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'mattn/vim-maketable'
 call plug#end()
 
 " coc.nvim
